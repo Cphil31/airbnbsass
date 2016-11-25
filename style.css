@@ -1,0 +1,65 @@
+.logoHeader{
+	float :left;
+	margin-right:71%;
+}
+#carroussel{
+	position: relative;
+}
+.menu{
+	position: relative;
+	margin-top:-450px;
+	margin-bottom: 500px;
+}
+.form{
+	margin-left: 10%;
+	margin-right: 9%;
+}
+
+.devenez{
+	margin-right:3%;
+}
+.aideHeader{
+	margin-right:3%;
+}
+.inscription{
+	margin-right:3%;
+}
+.experience{
+	margin-left: 10%;
+}
+#imgExp{
+margin-right:5%; 
+}
+#imgLoge{
+margin-left:5%; 
+margin-right:10%;
+}
+#imgLog{
+margin-right:10%; 
+}
+#langue{
+	clear: left;
+}
+.input{
+	float:left;
+	width: 300px;
+	margin-left:15%;
+}
+.liste{
+	float:left;
+	margin-right:10%;
+}
+.footer{
+	clear:left;
+}
+.logoFooter{
+	margin-left:10%;
+}
+.conditions{
+	margin-left: 25%;
+	margin-right:5%;
+}
+.plan{
+	margin-right:5%;
+}
+
