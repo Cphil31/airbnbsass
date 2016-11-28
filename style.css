@@ -1,113 +1,33 @@
 .one{
 	margin-top: -1%;
-	margin-left:auto;
+	margin-left: auto;
 	margin-right:auto;
 	width:80%;
-	border:solid 1px;
 }
 .logoHeader{
-	float :left;
-	margin-right:71%;
-}
-#carroussel{
-	position: relative;
-}
-.menu{
-	position: relative;
-	margin-top:-450px;
-	margin-bottom: 500px;
-}
-.form{
-	margin-left: 10%;
-	margin-right: 9%;
-}
-
-.devenez{
-	margin-right:3%;
-}
-.aideHeader{
-	margin-right:3%;
-}
-.inscription{
-	margin-right:3%;
+	margin-right: 75%;
 }
 .experience{
-	margin-left: 10%;
+	margin-left: 3%;
 }
 #imgExp{
-	margin-right:5%; 
-}
-#imgLoge{
-	margin-left:5%; 
-	margin-right:10%;
+	margin-right:3%;
 }
 #imgLog{
-	margin-right:10%; 
-}
-#langue{
-	clear: left;
+	margin-left:5%;
+	margin-right:3%;
 }
 .input{
-	float:left;
-	width: 300px;
-	margin-left:15%;
+	margin-left: 5%;
+	width: 20%;
+	float: left;
 }
 .liste{
-	float:left;
-	margin-right:10%;
+	float: left;
 }
 .footer{
 	clear:left;
 }
 .logoFooter{
-	margin-left:10%;
+	margin-right:40%;
 }
-.conditions{
-	margin-left: 25%;
-	margin-right:5%;
-}
-.plan{
-	margin-right:5%;
-}
-
-@media screen and (max-width:300px)  {
-	.in{display:none;}
-}
-
-
-
-@media screen and (max-width:300px)  {
-	.color{
-		display:block;
-		background-color:blue;
-	}
-}
-@media screen and (min-width: 301px) and (max-width: 600px)  {
-	.color{
-		display:block;
-		background-color:green;
-	}
-}
-@media screen and (min-width: 601px)  {
-	.color{
-		display:block;
-		background-color:red;
-	}
-}
-
-@media screen and (min-width:800px){
-	button {display:none;}
-	ul#menu_horizontal li { 
-		display : inline;
-		padding : 0 0.5em; 
-	}
-}
-
-@media screen and (max-width:799px){
-	button{display:block;}
-	ul#menu_horizontal li { 
-		list-style-type : none;
-		display:none;
-	}
-}
-*/
