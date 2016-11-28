@@ -1,7 +1,13 @@
 .one{
+	position: relative;
 	margin-left: auto;
 	margin-right:auto;
 	width:80%;
+}
+.menu{
+	position: relative;
+	margin-top: -450px;
+	margin-bottom: 450px;
 }
 .logoHeader{
 	margin-right: 75%;
